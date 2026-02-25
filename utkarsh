@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>For Madam Ji ❤️</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #ffe6f0, #fff0f5);
+            padding-top: 100px;
+        }
+        h1 {
+            color: #ff4d6d;
+        }
+        .shayari {
+            font-size: 20px;
+            color: #444;
+            margin: 20px;
+            font-style: italic;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            background-color: #ff4d6d;
+            color: white;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #ff1e4d;
+        }
+        #message {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #ff4d6d;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Special Message for Madam Ji ✨</h1>
+
+    <p class="shayari">
+        “Kahe khafa aise chulbul si bulbul,<br>
+        Kahe nahin tu maane batiya re…” ✨
+    </p>
+
+    <button onclick="showMessage()">Maan Jao Na 💌</button>
+
+    <div id="message"></div>
+
+    <script>
+        function showMessage() {
+            document.getElementById("message").innerHTML = 
+            "Ab officially gussa khatam… warna developer fir se try karega 😌❤️";
+        }
+    </script>
+
+</body>
+</html>
