@@ -1,4 +1,9 @@
-# apology-to-shree-shree-manika-ji
+# Apology To Shree Shree Manika Ji 💛
 
-This is my first repository.
-Created by Utkarsh.
+This repository is dedicated to the most adorable person.
+
+Dear Manika ji,  
+Galti ho gayi hogi, par intention kabhi galat nahi tha.  
+Dil se mana raha hoon. Please maan jao na 🥺✨
+
+— Utkarsh
